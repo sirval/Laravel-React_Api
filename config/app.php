@@ -15,6 +15,10 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    // getting error elog on heruko dashboard 
+    
+    'log'=>'errorlog',
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
